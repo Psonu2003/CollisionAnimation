@@ -59,4 +59,4 @@ This will feed all the inputs into the `main.py` without the user needing to typ
 Just note that if you do choose to save the animation that it could take a few minutes to complete. Do not terminate the program even if you see a message saying that the animation is saved. The simulation will terminate on its own and this will allow the video and HTML to be properly created. 
 
 ## Contact
-If you have any questions, please contact me at (pratham.gujar30@gmail.com)[mailto:pratham.gujar30@gmail.com]. 
+If you have any questions, please contact me at [pratham.gujar30@gmail.com](mailto:pratham.gujar30@gmail.com). 
