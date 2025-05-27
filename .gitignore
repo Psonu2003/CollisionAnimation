@@ -1,0 +1,47 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Virtual environment folders (optional - customize if you use venv)
+venv/
+env/
+.venv/
+.collision-venv/
+collision-venv/
+
+# Jupyter Notebook checkpoints (if using notebooks)
+.ipynb_checkpoints/
+
+# Compiled files
+*.o
+*.a
+*.out
+*.class
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# VS Code config (if you use VS Code)
+.vscode/
+
+
+# OS-specific files (extra safe)
+.Spotlight-V100
+.Trashes
